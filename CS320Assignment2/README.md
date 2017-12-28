@@ -1,1 +1,1 @@
-Will add completed README.md soon.
+prog2_3 takes one command line argument from STDIN representing the number of times the user may "push" and "pop" tokens onto or off of the stack. After the user pushes or pops however many tokens they specified, or if they type "quit", the stack is then printed onto the screen.
