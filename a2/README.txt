@@ -1,4 +1,4 @@
-﻿Kyle Zou cssc1069, Allen Chang cssc1068, Luke Stodgel cssc1080
+Kyle Zou cssc1069, Allen Chang cssc1068, Luke Stodgel cssc1080
 CS570 Summer 2018
 Assignment 2 Multi-processing file editor
 README.txt
@@ -12,7 +12,7 @@ Compile instructions
 	If you type make, the makefile will compile all of the .cpp files, make object files, and will create an executable file named filem. If you then type filem the program will execute. 
 
 Operating instructions
-	All you must do is compile both files, and call a.out. You will then be able to navigate through the program via its menus.
+	All you must do is rune the make file, and call filem. You will then be able to navigate through the program via its menus.
 
 List/description of any extra features/algorithms/functionality you included which were not required	
 	We used many functions from the <stream>, <string>, <iostream>, <stdio>, <sstream>, <sys/stat>, <stdlib.h>, <cstring>, <fstream>, <unistd.h>, <vector> class function libraries. That's about it!	
