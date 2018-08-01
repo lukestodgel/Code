@@ -12,7 +12,7 @@ Compile instructions
 	If you type make, the makefile will compile all of the .cpp files, make object files, and will create an executable file named filem. If you then type filem the program will execute. 
 
 Operating instructions
-	All you must do is rune the make file, and call filem. You will then be able to navigate through the program via its menus.
+	All you must do is run the make file, and call filem. You will then be able to navigate through the program via its menus.
 
 List/description of any extra features/algorithms/functionality you included which were not required	
 	We used many functions from the <stream>, <string>, <iostream>, <stdio>, <sstream>, <sys/stat>, <stdlib.h>, <cstring>, <fstream>, <unistd.h>, <vector> class function libraries. That's about it!	
