@@ -5,7 +5,7 @@ CS570 Summer 2018
 Assignment2 Multi-processing file editor
 writing.cpp
 
-This function asks the user which file he/she would like to write to, and how he/she would like to write to it.
+This function asks the user which file they would like to write to, and how they would like to write to it.
 
 */
 
