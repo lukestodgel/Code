@@ -5,7 +5,7 @@ CS570 Summer 2018
 Assignment 3
 a3.cpp
 
-This class uses threads to implement the functionality of a countdown alarm.
+This class uses threads to implement the functionality of a timer.
 The user may enter the number of seconds he/she wants the timer to count down from, or not, and the default 25 second timer will run.
 The threads communicate by a signal and will terminate when the signal is invoked.
 */
